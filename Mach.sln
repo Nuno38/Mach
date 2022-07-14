@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Droid_Calculadora", "Mach\Droid_Calculadora.csproj", "{B4FCF573-EB91-4E95-AE2C-32B4B54CEE0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4FCF573-EB91-4E95-AE2C-32B4B54CEE0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4FCF573-EB91-4E95-AE2C-32B4B54CEE0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4FCF573-EB91-4E95-AE2C-32B4B54CEE0B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B4FCF573-EB91-4E95-AE2C-32B4B54CEE0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4FCF573-EB91-4E95-AE2C-32B4B54CEE0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4FCF573-EB91-4E95-AE2C-32B4B54CEE0B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31B166A5-8A82-4273-A6A9-11959AB2E02D}
+	EndGlobalSection
+EndGlobal
